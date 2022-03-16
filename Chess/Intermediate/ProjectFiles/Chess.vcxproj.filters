@@ -1,0 +1,51 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="16.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <None Include="..\..\Chess.uproject" />
+    <Filter Include="Source">
+      <UniqueIdentifier>{6AE3AD57-3511-4BA1-8EFB-151B87E5BDC0}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Source\Chess.Target.cs">
+      <Filter>Source</Filter>
+    </None>
+    <None Include="..\..\Source\ChessEditor.Target.cs">
+      <Filter>Source</Filter>
+    </None>
+    <Filter Include="Config">
+      <UniqueIdentifier>{E7571D67-AC15-43F0-99BC-D7D4673939E5}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Config\DefaultEditor.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultEngine.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultGame.ini">
+      <Filter>Config</Filter>
+    </None>
+    <Filter Include="Source\Chess">
+      <UniqueIdentifier>{B944D700-9EFC-40A7-8DDC-CA7C7C4A1CCA}</UniqueIdentifier>
+    </Filter>
+    <ClCompile Include="..\..\Source\Chess\Board.cpp">
+      <Filter>Source\Chess</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\Chess\Board.h">
+      <Filter>Source\Chess</Filter>
+    </ClInclude>
+    <None Include="..\..\Source\Chess\Chess.Build.cs">
+      <Filter>Source\Chess</Filter>
+    </None>
+    <ClCompile Include="..\..\Source\Chess\Chess.cpp">
+      <Filter>Source\Chess</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\Chess\Chess.h">
+      <Filter>Source\Chess</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\Chess\MyGameModeBase.cpp">
+      <Filter>Source\Chess</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\Chess\MyGameModeBase.h">
+      <Filter>Source\Chess</Filter>
+    </ClInclude>
+  </ItemGroup>
+</Project>
