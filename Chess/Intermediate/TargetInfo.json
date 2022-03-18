@@ -2,12 +2,12 @@
 	"Targets": [
 		{
 			"Name": "Chess",
-			"Path": "C:\\Users\\mario\\Documents\\Unreal Projects\\Chess\\Source\\Chess.Target.cs",
+			"Path": "C:\\Users\\mario\\Documents\\Unreal Projects\\ChessUnreal\\Chess\\Source\\Chess.Target.cs",
 			"Type": "Game"
 		},
 		{
 			"Name": "ChessEditor",
-			"Path": "C:\\Users\\mario\\Documents\\Unreal Projects\\Chess\\Source\\ChessEditor.Target.cs",
+			"Path": "C:\\Users\\mario\\Documents\\Unreal Projects\\ChessUnreal\\Chess\\Source\\ChessEditor.Target.cs",
 			"Type": "Editor"
 		}
 	]

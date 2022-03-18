@@ -1,8 +1,8 @@
 {
 	"SourceFiles": [
-		"C:\\Users\\mario\\Documents\\Unreal Projects\\Chess\\Source\\Chess\\Chess.Build.cs",
-		"C:\\Users\\mario\\Documents\\Unreal Projects\\Chess\\Source\\Chess.Target.cs",
-		"C:\\Users\\mario\\Documents\\Unreal Projects\\Chess\\Source\\ChessEditor.Target.cs"
+		"C:\\Users\\mario\\Documents\\Unreal Projects\\ChessUnreal\\Chess\\Source\\Chess\\Chess.Build.cs",
+		"C:\\Users\\mario\\Documents\\Unreal Projects\\ChessUnreal\\Chess\\Source\\Chess.Target.cs",
+		"C:\\Users\\mario\\Documents\\Unreal Projects\\ChessUnreal\\Chess\\Source\\ChessEditor.Target.cs"
 	],
 	"EngineVersion": "4.27.2"
 }

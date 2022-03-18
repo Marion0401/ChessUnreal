@@ -1,0 +1,3 @@
+C:\Users\mario\Documents\Unreal Projects\ChessUnreal\Chess\Intermediate\Build\Win64\UE4Editor\Development\Chess\Definitions.Chess.h
+C:\Users\mario\Documents\Unreal Projects\ChessUnreal\Chess\Source\Chess\Piece.h
+C:\Users\mario\Documents\Unreal Projects\ChessUnreal\Chess\Intermediate\Build\Win64\UE4Editor\Inc\Chess\Piece.generated.h

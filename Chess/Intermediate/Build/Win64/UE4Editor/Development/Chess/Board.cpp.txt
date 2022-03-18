@@ -1,3 +1,3 @@
-C:\Users\mario\Documents\Unreal Projects\Chess\Intermediate\Build\Win64\UE4Editor\Development\Chess\Definitions.Chess.h
-C:\Users\mario\Documents\Unreal Projects\Chess\Source\Chess\Board.h
-C:\Users\mario\Documents\Unreal Projects\Chess\Intermediate\Build\Win64\UE4Editor\Inc\Chess\Board.generated.h
+C:\Users\mario\Documents\Unreal Projects\ChessUnreal\Chess\Intermediate\Build\Win64\UE4Editor\Development\Chess\Definitions.Chess.h
+C:\Users\mario\Documents\Unreal Projects\ChessUnreal\Chess\Source\Chess\Board.h
+C:\Users\mario\Documents\Unreal Projects\ChessUnreal\Chess\Intermediate\Build\Win64\UE4Editor\Inc\Chess\Board.generated.h

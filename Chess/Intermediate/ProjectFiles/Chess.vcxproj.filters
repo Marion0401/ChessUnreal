@@ -3,7 +3,7 @@
   <ItemGroup>
     <None Include="..\..\Chess.uproject" />
     <Filter Include="Source">
-      <UniqueIdentifier>{6AE3AD57-3511-4BA1-8EFB-151B87E5BDC0}</UniqueIdentifier>
+      <UniqueIdentifier>{1F90B538-D3EE-4270-8BFF-3EC1E99F5D84}</UniqueIdentifier>
     </Filter>
     <None Include="..\..\Source\Chess.Target.cs">
       <Filter>Source</Filter>
@@ -12,7 +12,7 @@
       <Filter>Source</Filter>
     </None>
     <Filter Include="Config">
-      <UniqueIdentifier>{E7571D67-AC15-43F0-99BC-D7D4673939E5}</UniqueIdentifier>
+      <UniqueIdentifier>{4F85F29F-935F-4508-897B-A2901BA5F423}</UniqueIdentifier>
     </Filter>
     <None Include="..\..\Config\DefaultEditor.ini">
       <Filter>Config</Filter>
@@ -24,7 +24,7 @@
       <Filter>Config</Filter>
     </None>
     <Filter Include="Source\Chess">
-      <UniqueIdentifier>{B944D700-9EFC-40A7-8DDC-CA7C7C4A1CCA}</UniqueIdentifier>
+      <UniqueIdentifier>{8E467F2C-323F-4FA6-851A-D84803EF4CD2}</UniqueIdentifier>
     </Filter>
     <ClCompile Include="..\..\Source\Chess\Board.cpp">
       <Filter>Source\Chess</Filter>
@@ -45,6 +45,12 @@
       <Filter>Source\Chess</Filter>
     </ClCompile>
     <ClInclude Include="..\..\Source\Chess\MyGameModeBase.h">
+      <Filter>Source\Chess</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\Chess\Pieces.cpp">
+      <Filter>Source\Chess</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\Chess\Pieces.h">
       <Filter>Source\Chess</Filter>
     </ClInclude>
   </ItemGroup>

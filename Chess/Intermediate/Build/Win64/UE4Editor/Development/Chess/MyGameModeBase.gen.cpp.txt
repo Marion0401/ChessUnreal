@@ -1,11 +1,11 @@
-C:\Users\mario\Documents\Unreal Projects\Chess\Intermediate\Build\Win64\UE4Editor\Development\Chess\Definitions.Chess.h
+C:\Users\mario\Documents\Unreal Projects\ChessUnreal\Chess\Intermediate\Build\Win64\UE4Editor\Development\Chess\Definitions.Chess.h
 C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\CoreUObject\Public\UObject/GeneratedCppIncludes.h
 C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\CoreUObject\Public\UObject/MetaData.h
-C:\Users\mario\Documents\Unreal Projects\Chess\Source\Chess/MyGameModeBase.h
+C:\Users\mario\Documents\Unreal Projects\ChessUnreal\Chess\Source\Chess/MyGameModeBase.h
 C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\Engine\Classes\GameFramework/GameModeBase.h
 C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\Engine\Classes\Engine/ServerStatReplicator.h
 C:\Program Files\Epic Games\UE_4.27\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\ServerStatReplicator.generated.h
 C:\Program Files\Epic Games\UE_4.27\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\GameModeBase.generated.h
-C:\Users\mario\Documents\Unreal Projects\Chess\Source\Chess\Board.h
-C:\Users\mario\Documents\Unreal Projects\Chess\Intermediate\Build\Win64\UE4Editor\Inc\Chess\Board.generated.h
-C:\Users\mario\Documents\Unreal Projects\Chess\Intermediate\Build\Win64\UE4Editor\Inc\Chess\MyGameModeBase.generated.h
+C:\Users\mario\Documents\Unreal Projects\ChessUnreal\Chess\Source\Chess\Board.h
+C:\Users\mario\Documents\Unreal Projects\ChessUnreal\Chess\Intermediate\Build\Win64\UE4Editor\Inc\Chess\Board.generated.h
+C:\Users\mario\Documents\Unreal Projects\ChessUnreal\Chess\Intermediate\Build\Win64\UE4Editor\Inc\Chess\MyGameModeBase.generated.h
